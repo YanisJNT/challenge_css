@@ -1,0 +1,46 @@
+@media screen and (min-width:725px){
+    #img-top{
+        width: 1000px;
+        height: 1000px;
+        top: -500px;
+        left: -700px;
+    }
+
+    .card img{
+        height: 160px;
+       
+    
+    }
+
+
+    .bg1{
+        width: 490px;
+    }
+
+}
+
+
+@media screen and (min-width:1260px){
+    #img-top{
+        width: 1000px;
+        height: 1000px;
+        top: -500px;
+        left: -270px;
+    }
+
+    .card img{
+        height: 160px;
+    }
+
+    .logo img{
+        padding-top: -155px;
+        
+    }
+
+
+    .bg1{
+        width: 550px;
+        height: 470px;
+    }
+
+}
